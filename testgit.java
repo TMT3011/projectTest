@@ -10,5 +10,6 @@ public class testgit{
         System.out.println("Nhap vao b:");
         b=kb.nextInt();
         System.out.println("Tong a va b la: "+(a+b));
+        kb.close();
     }
 }
